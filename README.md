@@ -38,15 +38,6 @@ QueryGen LLM is a web application that simplifies SQL query generation. Using an
 - **Groq API**: LLM-powered query generation.
 - **SQLite**: Database format for input files.
 
----
-
-## 🎨 **Screenshots**
-
-### **Home Page**
-![Home Page Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
-
-### **Database Schema Display**
-![Schema Display Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
 
 ---
 
