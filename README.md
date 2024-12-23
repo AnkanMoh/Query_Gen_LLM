@@ -83,11 +83,6 @@ The application is deployed on [Streamlit Cloud](https://querygenllm.streamlit.a
 
 ---
 
-## 🙌 **Contributing**
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
-
 ## ⭐ **Acknowledgments**
 - **Streamlit**: For providing a seamless framework for interactive applications.
 - **Groq**: For powering natural language query generation.
