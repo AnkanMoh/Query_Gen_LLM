@@ -1,5 +1,5 @@
-streamlit==1.25.0
-sqlalchemy==2.0.21
-groq==0.13.1
-pillow==7.1.0
-twisted-iocpsupport==1.0.3
+streamlit
+sqlalchemy
+groq
+jsonlib-python3  # If json-specific utilities are needed
+os-sys
